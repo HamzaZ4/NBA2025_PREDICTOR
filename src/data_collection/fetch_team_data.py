@@ -22,5 +22,3 @@ def fetch_team_data(season: str, out_dir: str = "../../data/raw/teams/"):
 
     df.to_csv(f"{out_dir}team_game_log_{season}.csv", index=False)
     return f"{out_dir}team_game_log_{season}.csv"
-
-fetch_team_data("2023-24")
