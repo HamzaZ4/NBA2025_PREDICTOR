@@ -1,0 +1,498 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,TEAM_ID,TEAM_NAME
+1610612737,2018,00,Justin Anderson,Justin,justin-anderson,1,G-F,6-6,230,"NOV 19, 1993",25.0,3,Virginia,1626147,,1610612737,Atlanta Hawks
+1610612737,2018,00,Kevin Huerter,Kevin,kevin-huerter,3,G,6-7,190,"AUG 27, 1998",20.0,R,Maryland,1628989,,1610612737,Atlanta Hawks
+1610612737,2018,00,Omari Spellman,Omari,omari-spellman,6,F,6-9,245,"JUL 21, 1997",21.0,R,Villanova,1629016,,1610612737,Atlanta Hawks
+1610612737,2018,00,Isaac Humphries,Isaac,isaac-humphries,8,C,7-0,260,"JAN 05, 1998",21.0,R,Kentucky,1629353,,1610612737,Atlanta Hawks
+1610612737,2018,00,Jaylen Adams,Jaylen,jaylen-adams,10,G,6-2,190,"MAY 04, 1996",23.0,R,St. Bonaventure,1629121,,1610612737,Atlanta Hawks
+1610612737,2018,00,Trae Young,Trae,trae-young,11,G,6-2,180,"SEP 19, 1998",20.0,R,Oklahoma,1629027,Draft Rights Traded from DAL on 06/21/18,1610612737,Atlanta Hawks
+1610612737,2018,00,Taurean Prince,Taurean,taurean-prince,12,F,6-8,220,"MAR 22, 1994",25.0,2,Baylor,1627752,,1610612737,Atlanta Hawks
+1610612737,2018,00,Dewayne Dedmon,Dewayne,dewayne-dedmon,14,C,7-0,245,"AUG 12, 1989",29.0,5,USC,203473,,1610612737,Atlanta Hawks
+1610612737,2018,00,Vince Carter,Vince,vince-carter,15,F-G,6-6,220,"JAN 26, 1977",42.0,20,North Carolina,1713,,1610612737,Atlanta Hawks
+1610612737,2018,00,Miles Plumlee,Miles,miles-plumlee,18,C,6-11,249,"SEP 01, 1988",30.0,6,Duke,203101,,1610612737,Atlanta Hawks
+1610612737,2018,00,John Collins,John,john-collins,20,F-C,6-10,235,"SEP 23, 1997",21.0,1,Wake Forest,1628381,,1610612737,Atlanta Hawks
+1610612737,2018,00,Alex Poythress,Alex,alex-poythress,22,F,6-9,235,"SEP 06, 1993",25.0,2,Kentucky,1627816,,1610612737,Atlanta Hawks
+1610612737,2018,00,Kent Bazemore,Kent,kent-bazemore,24,G,6-5,201,"JUL 01, 1989",29.0,6,Old Dominion,203145,,1610612737,Atlanta Hawks
+1610612737,2018,00,Alex Len,Alex,alex-len,25,C,7-1,250,"JUN 16, 1993",26.0,5,Maryland,203458,,1610612737,Atlanta Hawks
+1610612737,2018,00,DeAndre' Bembry,DeAndre',deandre-bembry,95,F,6-6,210,"JUL 04, 1994",24.0,2,St. Joseph's (PA),1627761,,1610612737,Atlanta Hawks
+1610612738,2018,00,Jayson Tatum,Jayson,jayson-tatum,0,F,6-8,208,"MAR 03, 1998",21.0,1,Duke,1628369,#3 Pick in 2017 Draft,1610612738,Boston Celtics
+1610612738,2018,00,Jonathan Gibson,Jonathan,jonathan-gibson,3,G,6-2,185,"NOV 08, 1987",31.0,2,New Mexico State,1626780,,1610612738,Boston Celtics
+1610612738,2018,00,Jaylen Brown,Jaylen,jaylen-brown,7,G,6-7,220,"OCT 24, 1996",22.0,2,California,1627759,#3 Pick in 2016 Draft,1610612738,Boston Celtics
+1610612738,2018,00,Brad Wanamaker,Brad,brad-wanamaker,9,G,6-4,210,"JUL 25, 1989",29.0,R,Pittsburgh,202954,,1610612738,Boston Celtics
+1610612738,2018,00,Kyrie Irving,Kyrie,kyrie-irving,11,G,6-3,193,"MAR 23, 1992",27.0,7,Duke,202681,,1610612738,Boston Celtics
+1610612738,2018,00,Terry Rozier,Terry,terry-rozier,12,G,6-1,190,"MAR 17, 1994",25.0,3,Louisville,1626179,,1610612738,Boston Celtics
+1610612738,2018,00,Marcus Morris Sr.,Marcus,marcus-morris-sr,13,F,6-9,235,"SEP 02, 1989",29.0,7,Kansas,202694,,1610612738,Boston Celtics
+1610612738,2018,00,Gordon Hayward,Gordon,gordon-hayward,20,F,6-8,225,"MAR 23, 1990",29.0,8,Butler,202330,,1610612738,Boston Celtics
+1610612738,2018,00,Daniel Theis,Daniel,daniel-theis,27,F,6-8,243,"APR 04, 1992",27.0,1,Brose Bamberg,1628464,,1610612738,Boston Celtics
+1610612738,2018,00,RJ Hunter,RJ,rj-hunter,28,G,6-5,185,"OCT 24, 1993",25.0,3,Georgia State,1626154,,1610612738,Boston Celtics
+1610612738,2018,00,Guerschon Yabusele,Guerschon,guerschon-yabusele,30,F,6-8,260,"DEC 17, 1995",23.0,1,"Rouen, France",1627824,,1610612738,Boston Celtics
+1610612738,2018,00,Marcus Smart,Marcus,marcus-smart,36,G,6-4,220,"MAR 06, 1994",25.0,4,Oklahoma State,203935,,1610612738,Boston Celtics
+1610612738,2018,00,Semi Ojeleye,Semi,semi-ojeleye,37,F,6-7,241,"DEC 05, 1994",24.0,1,Southern Methodist,1628400,,1610612738,Boston Celtics
+1610612738,2018,00,Al Horford,Al,al-horford,42,C-F,6-10,245,"JUN 03, 1986",33.0,11,Florida,201143,Traded from OKC on 06/18/21,1610612738,Boston Celtics
+1610612738,2018,00,Robert Williams III,Robert,robert-williams-iii,44,C-F,6-10,240,"OCT 17, 1997",21.0,R,Texas A&M,1629057,,1610612738,Boston Celtics
+1610612738,2018,00,Aron Baynes,Aron,aron-baynes,46,C-F,6-10,260,"DEC 09, 1986",32.0,6,Washington State,203382,,1610612738,Boston Celtics
+1610612738,2018,00,PJ Dozier,PJ,pj-dozier,50,G-F,6-6,205,"OCT 25, 1996",22.0,1,South Carolina,1628408,,1610612738,Boston Celtics
+1610612739,2018,00,Kevin Love,Kevin,kevin-love,0,F-C,6-10,251,"SEP 07, 1988",30.0,10,UCLA,201567,,1610612739,Cleveland Cavaliers
+1610612739,2018,00,Nik Stauskas,Nik,nik-stauskas,1,G,6-6,205,"OCT 07, 1993",25.0,4,Michigan,203917,,1610612739,Cleveland Cavaliers
+1610612739,2018,00,Collin Sexton,Collin,collin-sexton,2,G,6-2,190,"JAN 04, 1999",20.0,R,Alabama,1629012,,1610612739,Cleveland Cavaliers
+1610612739,2018,00,Marquese Chriss,Marquese,marquese-chriss,3,F,6-10,240,"JUL 02, 1997",21.0,2,Washington,1627737,,1610612739,Cleveland Cavaliers
+1610612739,2018,00,Jaron Blossomgame,Jaron,jaron-blossomgame,4,F,6-8,220,"SEP 16, 1993",25.0,R,Clemson,1628417,,1610612739,Cleveland Cavaliers
+1610612739,2018,00,JR Smith,JR,jr-smith,5,G-F,6-6,225,"SEP 09, 1985",33.0,14,No College,2747,,1610612739,Cleveland Cavaliers
+1610612739,2018,00,Jordan Clarkson,Jordan,jordan-clarkson,8,G,6-5,194,"JUN 07, 1992",27.0,4,Missouri,203903,,1610612739,Cleveland Cavaliers
+1610612739,2018,00,Channing Frye,Channing,channing-frye,9,F-C,7-0,255,"MAY 17, 1983",36.0,12,Arizona,101112,,1610612739,Cleveland Cavaliers
+1610612739,2018,00,David Nwaba,David,david-nwaba,12,G,6-4,219,"JAN 14, 1993",26.0,2,Cal Poly-Obispo,1628021,,1610612739,Cleveland Cavaliers
+1610612739,2018,00,Tristan Thompson,Tristan,tristan-thompson,13,C-F,6-10,238,"MAR 13, 1991",28.0,7,Texas-Austin,202684,Signed on 09/12/23,1610612739,Cleveland Cavaliers
+1610612739,2018,00,Cedi Osman,Cedi,cedi-osman,16,F,6-8,215,"APR 08, 1995",24.0,1,Anadolu Efes,1626224,,1610612739,Cleveland Cavaliers
+1610612739,2018,00,Matthew Dellavedova,Matthew,matthew-dellavedova,18,G,6-4,200,"SEP 08, 1990",28.0,5,Saint Mary's,203521,,1610612739,Cleveland Cavaliers
+1610612739,2018,00,Brandon Knight,Brandon,brandon-knight,20,G,6-3,195,"DEC 02, 1991",27.0,6,Kentucky,202688,,1610612739,Cleveland Cavaliers
+1610612739,2018,00,Larry Nance Jr.,Larry,larry-nance-jr,22,F,6-9,230,"JAN 01, 1993",26.0,3,Wyoming,1626204,Signed on 07/06/25,1610612739,Cleveland Cavaliers
+1610612739,2018,00,John Henson,John,john-henson,31,F,6-11,219,"DEC 28, 1990",28.0,6,North Carolina,203089,,1610612739,Cleveland Cavaliers
+1610612739,2018,00,Deng Adel,Deng,deng-adel,32,F,6-7,200,"FEB 01, 1997",22.0,R,Louisville,1629061,,1610612739,Cleveland Cavaliers
+1610612739,2018,00,Ante Zizic,Ante,ante-zizic,41,C,6-11,254,"JAN 04, 1997",22.0,1,Darussafaka,1627790,,1610612739,Cleveland Cavaliers
+1610612740,2018,00,Ian Clark,Ian,ian-clark,2,G,6-3,175,"MAR 07, 1991",28.0,5,Belmont,203546,,1610612740,New Orleans Pelicans
+1610612740,2018,00,Stanley Johnson,Stanley,stanley-johnson,3,F,6-7,245,"MAY 29, 1996",23.0,3,Arizona,1626169,,1610612740,New Orleans Pelicans
+1610612740,2018,00,Elfrid Payton,Elfrid,elfrid-payton,4,G,6-4,185,"FEB 22, 1994",25.0,4,Louisana-Lafayette,203901,,1610612740,New Orleans Pelicans
+1610612740,2018,00,Trevon Bluiett,Trevon,trevon-bluiett,5,G-F,6-6,198,"NOV 04, 1994",24.0,R,Xavier,1629129,,1610612740,New Orleans Pelicans
+1610612740,2018,00,Jahlil Okafor,Jahlil,jahlil-okafor,8,C,6-11,275,"DEC 15, 1995",23.0,3,Duke,1626143,,1610612740,New Orleans Pelicans
+1610612740,2018,00,Dairis Bertans,Dairis,dairis-bertans,9,G,6-4,200,"SEP 09, 1989",29.0,R,Olimpia Milano,1629541,,1610612740,New Orleans Pelicans
+1610612740,2018,00,Jrue Holiday,Jrue,jrue-holiday,11,G,6-4,205,"JUN 12, 1990",29.0,9,UCLA,201950,,1610612740,New Orleans Pelicans
+1610612740,2018,00,Cheick Diallo,Cheick,cheick-diallo,13,F,6-9,220,"SEP 13, 1996",22.0,2,Kansas,1627767,,1610612740,New Orleans Pelicans
+1610612740,2018,00,Frank Jackson,Frank,frank-jackson,15,G,6-3,205,"MAY 04, 1998",21.0,R,Duke,1628402,,1610612740,New Orleans Pelicans
+1610612740,2018,00,Darius Miller,Darius,darius-miller,21,F,6-8,225,"MAR 21, 1990",29.0,4,Kentucky,203121,,1610612740,New Orleans Pelicans
+1610612740,2018,00,Anthony Davis,Anthony,anthony-davis,23,F-C,6-10,253,"MAR 11, 1993",26.0,6,Kentucky,203076,,1610612740,New Orleans Pelicans
+1610612740,2018,00,Julius Randle,Julius,julius-randle,30,C-F,6-9,250,"NOV 29, 1994",24.0,4,Kentucky,203944,,1610612740,New Orleans Pelicans
+1610612740,2018,00,Kenrich Williams,Kenrich,kenrich-williams,34,G-F,6-7,210,"DEC 02, 1994",24.0,R,TCU,1629026,,1610612740,New Orleans Pelicans
+1610612740,2018,00,Christian Wood,Christian,christian-wood,35,F,6-10,214,"SEP 27, 1995",23.0,2,UNLV,1626174,,1610612740,New Orleans Pelicans
+1610612740,2018,00,Solomon Hill,Solomon,solomon-hill,44,F,6-7,225,"MAR 18, 1991",28.0,5,Arizona,203524,,1610612740,New Orleans Pelicans
+1610612740,2018,00,E'Twaun Moore,E'Twaun,etwaun-moore,55,G,6-4,191,"FEB 25, 1989",30.0,7,Purdue,202734,,1610612740,New Orleans Pelicans
+1610612741,2018,00,Shaquille Harrison,Shaquille,shaquille-harrison,3,G,6-4,190,"OCT 06, 1993",25.0,1,Tulsa,1627885,,1610612741,Chicago Bulls
+1610612741,2018,00,Cristiano Felicio,Cristiano,cristiano-felicio,6,F-C,6-10,265,"JUL 07, 1992",26.0,3,Flamengo,1626245,,1610612741,Chicago Bulls
+1610612741,2018,00,Timothe Luwawu-Cabarrot,Timothe,timothe-luwawu-cabarrot,7,G-F,6-6,210,"MAY 09, 1995",24.0,2,Mega Basket,1627789,,1610612741,Chicago Bulls
+1610612741,2018,00,Zach LaVine,Zach,zach-lavine,8,G,6-5,200,"MAR 10, 1995",24.0,4,UCLA,203897,,1610612741,Chicago Bulls
+1610612741,2018,00,Antonio Blakeney,Antonio,antonio-blakeney,9,G,6-4,192,"OCT 04, 1996",22.0,1,Louisiana State,1628469,,1610612741,Chicago Bulls
+1610612741,2018,00,Wayne Selden,Wayne,wayne-selden,14,G-F,6-5,230,"SEP 30, 1994",24.0,2,Kansas,1627782,,1610612741,Chicago Bulls
+1610612741,2018,00,Chandler Hutchison,Chandler,chandler-hutchison,15,F,6-7,197,"APR 26, 1996",23.0,R,Boise State,1628990,,1610612741,Chicago Bulls
+1610612741,2018,00,Rawle Alkins,Rawle,rawle-alkins,20,G,6-5,225,"OCT 29, 1997",21.0,R,Arizona,1628959,,1610612741,Chicago Bulls
+1610612741,2018,00,Otto Porter Jr.,Otto,otto-porter-jr,22,F,6-8,198,"JUN 03, 1993",26.0,5,Georgetown,203490,,1610612741,Chicago Bulls
+1610612741,2018,00,Lauri Markkanen,Lauri,lauri-markkanen,24,F,7-0,240,"MAY 22, 1997",22.0,1,Arizona,1628374,,1610612741,Chicago Bulls
+1610612741,2018,00,Walt Lemon Jr.,Walt,walt-lemon-jr,25,G,6-3,180,"JUL 26, 1992",26.0,1,Bradley,1627215,,1610612741,Chicago Bulls
+1610612741,2018,00,Kris Dunn,Kris,kris-dunn,32,G,6-4,205,"MAR 18, 1994",25.0,2,Providence,1627739,,1610612741,Chicago Bulls
+1610612741,2018,00,Wendell Carter Jr.,Wendell,wendell-carter-jr,34,C,6-10,255,"APR 16, 1999",20.0,R,Duke,1628976,,1610612741,Chicago Bulls
+1610612741,2018,00,Robin Lopez,Robin,robin-lopez,42,C,7-0,275,"APR 01, 1988",31.0,10,Stanford,201577,,1610612741,Chicago Bulls
+1610612741,2018,00,Brandon Sampson,Brandon,brandon-sampson,44,G,6-5,184,"MAY 01, 1997",22.0,R,Louisiana State,1629102,,1610612741,Chicago Bulls
+1610612741,2018,00,Denzel Valentine,Denzel,denzel-valentine,45,G,6-6,210,"NOV 16, 1993",25.0,2,Michigan State,1627756,,1610612741,Chicago Bulls
+1610612741,2018,00,Ryan Arcidiacono,Ryan,ryan-arcidiacono,51,G,6-3,200,"MAR 26, 1994",25.0,1,Villanova,1627853,,1610612741,Chicago Bulls
+1610612742,2018,00,Courtney Lee,Courtney,courtney-lee,1,G,6-5,215,"OCT 03, 1985",33.0,10,Western Kentucky,201584,,1610612742,Dallas Mavericks
+1610612742,2018,00,Daryl Macon,Daryl,daryl-macon,3,G,6-3,185,"NOV 29, 1995",23.0,R,Arkansas,1629133,,1610612742,Dallas Mavericks
+1610612742,2018,00,J.J. Barea,J.J.,jj-barea,5,G,6-0,185,"JUN 26, 1984",35.0,12,Northeastern,200826,,1610612742,Dallas Mavericks
+1610612742,2018,00,Kristaps Porziņģis,Kristaps,kristaps-porziņģis,6,F-C,7-3,240,"AUG 02, 1995",23.0,3,Cajasol Sevilla,204001,,1610612742,Dallas Mavericks
+1610612742,2018,00,Dwight Powell,Dwight,dwight-powell,7,F-C,6-11,240,"JUL 20, 1991",27.0,4,Stanford,203939,Traded from BOS on 12/18/14,1610612742,Dallas Mavericks
+1610612742,2018,00,Dorian Finney-Smith,Dorian,dorian-finney-smith,10,F,6-8,220,"MAY 04, 1993",26.0,2,Florida,1627827,,1610612742,Dallas Mavericks
+1610612742,2018,00,Tim Hardaway Jr.,Tim,tim-hardaway-jr,11,G,6-6,205,"MAR 16, 1992",27.0,5,Michigan,203501,,1610612742,Dallas Mavericks
+1610612742,2018,00,Jalen Brunson,Jalen,jalen-brunson,13,G,6-3,190,"AUG 31, 1996",22.0,R,Villanova,1628973,,1610612742,Dallas Mavericks
+1610612742,2018,00,Trey Burke,Trey,trey-burke,23,G,6-1,175,"NOV 12, 1992",26.0,5,Michigan,203504,,1610612742,Dallas Mavericks
+1610612742,2018,00,Devin Harris,Devin,devin-harris,34,G,6-3,185,"FEB 27, 1983",36.0,14,Wisconsin,2734,,1610612742,Dallas Mavericks
+1610612742,2018,00,Kostas Antetokounmpo,Kostas,kostas-antetokounmpo,37,F,6-10,200,"NOV 20, 1997",21.0,R,Dayton,1628961,,1610612742,Dallas Mavericks
+1610612742,2018,00,Dirk Nowitzki,Dirk,dirk-nowitzki,41,F,7-0,245,"JUN 19, 1978",41.0,20,DJK Wurzburg,1717,,1610612742,Dallas Mavericks
+1610612742,2018,00,Maxi Kleber,Maxi,maxi-kleber,42,F,6-11,240,"JAN 29, 1992",27.0,1,Bayern Munich,1628467,,1610612742,Dallas Mavericks
+1610612742,2018,00,Justin Jackson,Justin,justin-jackson,44,F,6-8,210,"MAR 28, 1995",24.0,1,North Carolina,1628382,,1610612742,Dallas Mavericks
+1610612742,2018,00,Ryan Broekhoff,Ryan,ryan-broekhoff,45,G-F,6-7,215,"AUG 23, 1990",28.0,R,Valparaiso,1629151,,1610612742,Dallas Mavericks
+1610612742,2018,00,Salah Mejri,Salah,salah-mejri,50,C,7-2,235,"JUN 15, 1986",33.0,3,Real Madrid,1626257,,1610612742,Dallas Mavericks
+1610612742,2018,00,Luka Dončić,Luka,luka-dončić,77,F-G,6-7,218,"FEB 28, 1999",20.0,R,Real Madrid,1629029,,1610612742,Dallas Mavericks
+1610612743,2018,00,Isaiah Thomas,Isaiah,isaiah-thomas,0,G,5-9,185,"FEB 07, 1989",30.0,7,Washington,202738,,1610612743,Denver Nuggets
+1610612743,2018,00,Michael Porter Jr.,Michael,michael-porter-jr,1,F,6-10,210,"JUN 29, 1998",21.0,R,Missouri,1629008,,1610612743,Denver Nuggets
+1610612743,2018,00,Torrey Craig,Torrey,torrey-craig,3,F,6-7,215,"DEC 19, 1990",28.0,1,South Carolina Upstate,1628470,,1610612743,Denver Nuggets
+1610612743,2018,00,Paul Millsap,Paul,paul-millsap,4,F,6-8,246,"FEB 10, 1985",34.0,12,Louisiana Tech,200794,,1610612743,Denver Nuggets
+1610612743,2018,00,Will Barton,Will,will-barton,5,G,6-6,190,"JAN 06, 1991",28.0,6,Memphis,203115,,1610612743,Denver Nuggets
+1610612743,2018,00,Brandon Goodwin,Brandon,brandon-goodwin,6,G,6-2,180,"OCT 02, 1995",23.0,R,Florida Gulf Coast,1629164,,1610612743,Denver Nuggets
+1610612743,2018,00,Trey Lyles,Trey,trey-lyles,7,F,6-10,234,"NOV 05, 1995",23.0,3,Kentucky,1626168,,1610612743,Denver Nuggets
+1610612743,2018,00,Jarred Vanderbilt,Jarred,jarred-vanderbilt,8,F,6-9,214,"APR 03, 1999",20.0,R,Kentucky,1629020,,1610612743,Denver Nuggets
+1610612743,2018,00,Monté Morris,Monté,monté-morris,11,G,6-3,175,"JUN 27, 1995",24.0,1,Iowa State,1628420,,1610612743,Denver Nuggets
+1610612743,2018,00,Gary Harris,Gary,gary-harris,14,G,6-4,210,"SEP 14, 1994",24.0,4,Michigan State,203914,,1610612743,Denver Nuggets
+1610612743,2018,00,Nikola Jokić,Nikola,nikola-jokić,15,C,7-0,250,"FEB 19, 1995",24.0,3,Mega Basket,203999,#41 Pick in 2014 Draft,1610612743,Denver Nuggets
+1610612743,2018,00,Tyler Lydon,Tyler,tyler-lydon,20,F,6-10,225,"APR 09, 1996",23.0,1,Syracuse,1628399,,1610612743,Denver Nuggets
+1610612743,2018,00,Mason Plumlee,Mason,mason-plumlee,24,F-C,6-11,235,"MAR 05, 1990",29.0,5,Duke,203486,,1610612743,Denver Nuggets
+1610612743,2018,00,Malik Beasley,Malik,malik-beasley,25,G,6-5,195,"NOV 26, 1996",22.0,2,Florida State,1627736,,1610612743,Denver Nuggets
+1610612743,2018,00,Jamal Murray,Jamal,jamal-murray,27,G,6-4,207,"FEB 23, 1997",22.0,2,Kentucky,1627750,#7 Pick in 2016 Draft,1610612743,Denver Nuggets
+1610612743,2018,00,Juancho Hernangomez,Juancho,juancho-hernangomez,41,F,6-9,230,"SEP 28, 1995",23.0,2,Estudiantes,1627823,,1610612743,Denver Nuggets
+1610612743,2018,00,Thomas Welsh,Thomas,thomas-welsh,45,C,7-0,255,"FEB 03, 1996",23.0,R,UCLA,1629118,,1610612743,Denver Nuggets
+1610612744,2018,00,DeMarcus Cousins,DeMarcus,demarcus-cousins,0,C,6-11,270,"AUG 13, 1990",28.0,8,Kentucky,202326,,1610612744,Golden State Warriors
+1610612744,2018,00,Damion Lee,Damion,damion-lee,1,G,6-6,210,"OCT 21, 1992",26.0,1,Drexel,1627814,,1610612744,Golden State Warriors
+1610612744,2018,00,Jordan Bell,Jordan,jordan-bell,2,F,6-9,224,"JAN 07, 1995",24.0,1,Oregon,1628395,,1610612744,Golden State Warriors
+1610612744,2018,00,Quinn Cook,Quinn,quinn-cook,4,G,6-2,179,"MAR 23, 1993",26.0,2,Duke,1626188,,1610612744,Golden State Warriors
+1610612744,2018,00,Kevon Looney,Kevon,kevon-looney,5,C-F,6-9,220,"FEB 06, 1996",23.0,3,UCLA,1626172,,1610612744,Golden State Warriors
+1610612744,2018,00,Andre Iguodala,Andre,andre-iguodala,9,F-G,6-6,215,"JAN 28, 1984",35.0,14,Arizona,2738,,1610612744,Golden State Warriors
+1610612744,2018,00,Jacob Evans,Jacob,jacob-evans,10,G,6-6,210,"JUN 18, 1997",22.0,R,Cincinnati,1628980,,1610612744,Golden State Warriors
+1610612744,2018,00,Klay Thompson,Klay,klay-thompson,11,G,6-7,215,"FEB 08, 1990",29.0,7,Washington State,202691,,1610612744,Golden State Warriors
+1610612744,2018,00,Andrew Bogut,Andrew,andrew-bogut,12,C,7-0,260,"NOV 28, 1984",34.0,13,Utah,101106,,1610612744,Golden State Warriors
+1610612744,2018,00,Damian Jones,Damian,damian-jones,15,C,7-0,245,"JUN 30, 1995",24.0,2,Vanderbilt,1627745,,1610612744,Golden State Warriors
+1610612744,2018,00,Jonas Jerebko,Jonas,jonas-jerebko,21,F,6-10,231,"MAR 02, 1987",32.0,8,Angelico Biella,201973,,1610612744,Golden State Warriors
+1610612744,2018,00,Draymond Green,Draymond,draymond-green,23,F,6-7,230,"MAR 04, 1990",29.0,6,Michigan State,203110,#35 Pick in 2012 Draft,1610612744,Golden State Warriors
+1610612744,2018,00,Alfonzo McKinnie,Alfonzo,alfonzo-mckinnie,28,F,6-8,215,"SEP 17, 1992",26.0,1,Wisc.-Green Bay,1628035,,1610612744,Golden State Warriors
+1610612744,2018,00,Stephen Curry,Stephen,stephen-curry,30,G,6-3,190,"MAR 14, 1988",31.0,9,Davidson,201939,#7 Pick in 2009 Draft,1610612744,Golden State Warriors
+1610612744,2018,00,Marcus Derrickson,Marcus,marcus-derrickson,32,F,6-7,249,"FEB 01, 1996",23.0,R,Georgetown,1629094,,1610612744,Golden State Warriors
+1610612744,2018,00,Shaun Livingston,Shaun,shaun-livingston,34,G,6-7,192,"SEP 11, 1985",33.0,13,Peoria Central HS (IL),2733,,1610612744,Golden State Warriors
+1610612744,2018,00,Kevin Durant,Kevin,kevin-durant,35,F,6-9,240,"SEP 29, 1988",30.0,11,Texas,201142,,1610612744,Golden State Warriors
+1610612745,2018,00,Trevon Duval,Trevon,trevon-duval,0,G,6-2,189,"AUG 03, 1998",20.0,R,Duke,1628979,,1610612745,Houston Rockets
+1610612745,2018,00,Iman Shumpert,Iman,iman-shumpert,1,G,6-5,215,"JUN 26, 1990",29.0,7,Georgia Tech,202697,,1610612745,Houston Rockets
+1610612745,2018,00,Chris Chiozza,Chris,chris-chiozza,2,G,6-0,175,"NOV 21, 1995",23.0,R,Florida,1629185,,1610612745,Houston Rockets
+1610612745,2018,00,Chris Paul,Chris,chris-paul,3,G,6-0,175,"MAY 06, 1985",34.0,13,Wake Forest,101108,,1610612745,Houston Rockets
+1610612745,2018,00,Danuel House Jr.,Danuel,danuel-house-jr,4,F-G,6-7,220,"JUN 07, 1993",26.0,2,Texas A&M,1627863,,1610612745,Houston Rockets
+1610612745,2018,00,Gary Clark,Gary,gary-clark,6,F,6-8,225,"NOV 16, 1994",24.0,R,Cincinnati,1629109,,1610612745,Houston Rockets
+1610612745,2018,00,Eric Gordon,Eric,eric-gordon,10,G,6-4,215,"DEC 25, 1988",30.0,10,Indiana,201569,,1610612745,Houston Rockets
+1610612745,2018,00,Vincent Edwards,Vincent,vincent-edwards,12,F,6-8,225,"APR 05, 1996",23.0,R,Purdue,1629053,,1610612745,Houston Rockets
+1610612745,2018,00,James Harden,James,james-harden,13,G,6-5,220,"AUG 26, 1989",29.0,9,Arizona State,201935,,1610612745,Houston Rockets
+1610612745,2018,00,Gerald Green,Gerald,gerald-green,14,G-F,6-7,205,"JAN 26, 1986",33.0,11,No College,101123,,1610612745,Houston Rockets
+1610612745,2018,00,Clint Capela,Clint,clint-capela,15,C,6-10,240,"MAY 18, 1994",25.0,4,Elan Chalon,203991,Traded from ATL on 07/06/25,1610612745,Houston Rockets
+1610612745,2018,00,P.J. Tucker,P.J.,pj-tucker,17,F,6-6,245,"MAY 05, 1985",34.0,7,Texas,200782,,1610612745,Houston Rockets
+1610612745,2018,00,Michael Frazier II,Michael,michael-frazier-ii,21,G,6-4,200,"MAR 08, 1994",25.0,R,Florida,1626187,,1610612745,Houston Rockets
+1610612745,2018,00,Austin Rivers,Austin,austin-rivers,25,G,6-4,200,"AUG 01, 1992",26.0,6,Duke,203085,,1610612745,Houston Rockets
+1610612745,2018,00,Kenneth Faried,Kenneth,kenneth-faried,35,F-C,6-8,220,"NOV 19, 1989",29.0,7,Morehead State,202702,,1610612745,Houston Rockets
+1610612745,2018,00,Nene,Nene,nene-hilario,42,C-F,6-11,250,"SEP 13, 1982",36.0,16,Vasco de Gama,2403,,1610612745,Houston Rockets
+1610612745,2018,00,Isaiah Hartenstein,Isaiah,isaiah-hartenstein,55,F-C,7-0,249,"MAY 05, 1998",21.0,R,Zalgiris,1628392,,1610612745,Houston Rockets
+1610612746,2018,00,Sindarius Thornwell,Sindarius,sindarius-thornwell,0,G,6-5,215,"NOV 15, 1994",24.0,1,South Carolina,1628414,,1610612746,Los Angeles Clippers
+1610612746,2018,00,Shai Gilgeous-Alexander,Shai,shai-gilgeous-alexander,2,G,6-6,181,"JUL 12, 1998",20.0,R,Kentucky,1628983,,1610612746,Los Angeles Clippers
+1610612746,2018,00,JaMychal Green,JaMychal,jamychal-green,4,F,6-9,227,"JUN 21, 1990",29.0,4,Alabama,203210,,1610612746,Los Angeles Clippers
+1610612746,2018,00,Montrezl Harrell,Montrezl,montrezl-harrell,5,F-C,6-8,240,"JAN 26, 1994",25.0,3,Louisville,1626149,,1610612746,Los Angeles Clippers
+1610612746,2018,00,Danilo Gallinari,Danilo,danilo-gallinari,8,F,6-10,225,"AUG 08, 1988",30.0,9,Olimpia Milano,201568,,1610612746,Los Angeles Clippers
+1610612746,2018,00,Tyrone Wallace,Tyrone,tyrone-wallace,9,G,6-5,198,"JUN 10, 1994",25.0,1,California,1627820,,1610612746,Los Angeles Clippers
+1610612746,2018,00,Jerome Robinson,Jerome,jerome-robinson,10,G,6-5,190,"FEB 22, 1997",22.0,R,Boston College,1629010,,1610612746,Los Angeles Clippers
+1610612746,2018,00,Johnathan Motley,Johnathan,johnathan-motley,15,F,6-10,230,"MAY 04, 1995",24.0,1,Baylor,1628405,,1610612746,Los Angeles Clippers
+1610612746,2018,00,Garrett Temple,Garrett,garrett-temple,17,G-F,6-6,195,"MAY 08, 1986",33.0,8,Louisiana State,202066,,1610612746,Los Angeles Clippers
+1610612746,2018,00,Rodney McGruder,Rodney,rodney-mcgruder,19,F-G,6-4,200,"JUL 29, 1991",27.0,2,Kansas State,203585,,1610612746,Los Angeles Clippers
+1610612746,2018,00,Landry Shamet,Landry,landry-shamet,20,G,6-5,188,"MAR 13, 1997",22.0,R,Wichita State,1629013,,1610612746,Los Angeles Clippers
+1610612746,2018,00,Patrick Beverley,Patrick,patrick-beverley,21,G,6-1,185,"JUL 12, 1988",30.0,6,Arkansas,201976,,1610612746,Los Angeles Clippers
+1610612746,2018,00,Wilson Chandler,Wilson,wilson-chandler,22,F,6-9,225,"MAY 10, 1987",32.0,10,DePaul,201163,,1610612746,Los Angeles Clippers
+1610612746,2018,00,Lou Williams,Lou,lou-williams,23,G,6-1,175,"OCT 27, 1986",32.0,13,South Gwinnett HS (GA),101150,,1610612746,Los Angeles Clippers
+1610612746,2018,00,Angel Delgado,Angel,angel-delgado,31,C,6-10,245,"NOV 20, 1994",24.0,R,Seton Hall,1629116,,1610612746,Los Angeles Clippers
+1610612746,2018,00,Ivica Zubac,Ivica,ivica-zubac,40,C,7-1,240,"MAR 18, 1997",22.0,2,Mega Basket,1627826,Traded from LAL on 02/07/19,1610612746,Los Angeles Clippers
+1610612747,2018,00,Kyle Kuzma,Kyle,kyle-kuzma,0,F,6-9,220,"JUL 24, 1995",23.0,1,Utah,1628398,,1610612747,Los Angeles Lakers
+1610612747,2018,00,Kentavious Caldwell-Pope,Kentavious,kentavious-caldwell-pope,1,G,6-5,205,"FEB 18, 1993",26.0,5,Georgia,203484,,1610612747,Los Angeles Lakers
+1610612747,2018,00,Lonzo Ball,Lonzo,lonzo-ball,2,G,6-6,190,"OCT 27, 1997",21.0,1,UCLA,1628366,,1610612747,Los Angeles Lakers
+1610612747,2018,00,Josh Hart,Josh,josh-hart,3,G,6-5,215,"MAR 06, 1995",24.0,1,Villanova,1628404,,1610612747,Los Angeles Lakers
+1610612747,2018,00,Alex Caruso,Alex,alex-caruso,4,G,6-5,186,"FEB 28, 1994",25.0,1,Texas A&M,1627936,,1610612747,Los Angeles Lakers
+1610612747,2018,00,Tyson Chandler,Tyson,tyson-chandler,5,C,7-1,240,"OCT 02, 1982",36.0,17,Dominguez HS (CA),2199,,1610612747,Los Angeles Lakers
+1610612747,2018,00,Lance Stephenson,Lance,lance-stephenson,6,G,6-6,230,"SEP 05, 1990",28.0,8,Cincinnati,202362,,1610612747,Los Angeles Lakers
+1610612747,2018,00,JaVale McGee,JaVale,javale-mcgee,7,C,7-0,270,"JAN 19, 1988",31.0,10,Nevada,201580,,1610612747,Los Angeles Lakers
+1610612747,2018,00,Rajon Rondo,Rajon,rajon-rondo,9,G,6-1,186,"FEB 22, 1986",33.0,12,Kentucky,200765,,1610612747,Los Angeles Lakers
+1610612747,2018,00,Jemerrio Jones,Jemerrio,jemerrio-jones,10,F,6-5,174,"APR 09, 1995",24.0,R,New Mexico State,1629203,,1610612747,Los Angeles Lakers
+1610612747,2018,00,Brandon Ingram,Brandon,brandon-ingram,14,F,6-9,190,"SEP 02, 1997",21.0,2,Duke,1627742,,1610612747,Los Angeles Lakers
+1610612747,2018,00,Moritz Wagner,Moritz,moritz-wagner,15,C,6-11,245,"APR 26, 1997",22.0,R,Michigan,1629021,,1610612747,Los Angeles Lakers
+1610612747,2018,00,Isaac Bonga,Isaac,isaac-bonga,17,G,6-8,180,"NOV 08, 1999",19.0,R,Skyliners Frankfurt,1629067,,1610612747,Los Angeles Lakers
+1610612747,2018,00,Johnathan Williams,Johnathan,johnathan-williams,19,F,6-9,228,"MAY 22, 1995",24.0,R,Gonzaga,1629140,,1610612747,Los Angeles Lakers
+1610612747,2018,00,LeBron James,LeBron,lebron-james,23,F,6-8,250,"DEC 30, 1984",34.0,15,St. Vincent-St. Mary HS (OH),2544,Signed on 07/09/18,1610612747,Los Angeles Lakers
+1610612747,2018,00,Mike Muscala,Mike,mike-muscala,31,F-C,6-11,240,"JUL 01, 1991",27.0,5,Bucknell,203488,,1610612747,Los Angeles Lakers
+1610612747,2018,00,Reggie Bullock Jr.,Reggie,reggie-bullock-jr,35,G-F,6-7,205,"MAR 16, 1991",28.0,5,North Carolina,203493,,1610612747,Los Angeles Lakers
+1610612748,2018,00,Yante Maten,Yante,yante-maten,00,F,6-8,240,"AUG 14, 1996",22.0,R,Georgia,1628999,,1610612748,Miami Heat
+1610612748,2018,00,Josh Richardson,Josh,josh-richardson,0,G-F,6-6,200,"SEP 15, 1993",25.0,3,Tennessee,1626196,,1610612748,Miami Heat
+1610612748,2018,00,Kendrick Nunn,Kendrick,kendrick-nunn,,G,6-3,184,"AUG 03, 1995",23.0,R,Oakland,1629134,,1610612748,Miami Heat
+1610612748,2018,00,Dwyane Wade,Dwyane,dwyane-wade,3,G,6-4,220,"JAN 17, 1982",37.0,15,Marquette,2548,,1610612748,Miami Heat
+1610612748,2018,00,Derrick Jones Jr.,Derrick,derrick-jones-jr,5,F-G,6-7,200,"FEB 15, 1997",22.0,2,UNLV,1627884,,1610612748,Miami Heat
+1610612748,2018,00,Goran Dragic,Goran,goran-dragic,7,G,6-3,190,"MAY 06, 1986",33.0,10,Union Olimpija,201609,,1610612748,Miami Heat
+1610612748,2018,00,Kelly Olynyk,Kelly,kelly-olynyk,9,F,7-0,240,"APR 19, 1991",28.0,5,Gonzaga,203482,,1610612748,Miami Heat
+1610612748,2018,00,Dion Waiters,Dion,dion-waiters,11,G,6-4,215,"DEC 10, 1991",27.0,6,Syracuse,203079,,1610612748,Miami Heat
+1610612748,2018,00,Bam Adebayo,Bam,bam-adebayo,13,C-F,6-10,255,"JUL 18, 1997",21.0,1,Kentucky,1628389,#14 Pick in 2017 Draft,1610612748,Miami Heat
+1610612748,2018,00,James Johnson,James,james-johnson,16,F,6-8,240,"FEB 20, 1987",32.0,9,Wake Forest,201949,,1610612748,Miami Heat
+1610612748,2018,00,Justise Winslow,Justise,justise-winslow,20,F-G,6-7,225,"MAR 26, 1996",23.0,3,Duke,1626159,,1610612748,Miami Heat
+1610612748,2018,00,Hassan Whiteside,Hassan,hassan-whiteside,21,C,7-0,265,"JUN 13, 1989",30.0,6,Marshall,202355,,1610612748,Miami Heat
+1610612748,2018,00,Ryan Anderson,Ryan,ryan-anderson,31,F,6-10,240,"MAY 06, 1988",31.0,10,California,201583,,1610612748,Miami Heat
+1610612748,2018,00,Udonis Haslem,Udonis,udonis-haslem,40,F,6-8,235,"JUN 09, 1980",39.0,15,Florida,2617,,1610612748,Miami Heat
+1610612748,2018,00,Duncan Robinson,Duncan,duncan-robinson,55,F,6-8,210,"APR 22, 1994",25.0,R,Michigan,1629130,,1610612748,Miami Heat
+1610612749,2018,00,George Hill,George,george-hill,3,G,6-3,188,"MAY 04, 1986",33.0,10,Indiana-Purdue Indianapolis,201588,,1610612749,Milwaukee Bucks
+1610612749,2018,00,D.J. Wilson,D.J.,dj-wilson,5,F,6-10,231,"FEB 19, 1996",23.0,1,Michigan,1628391,,1610612749,Milwaukee Bucks
+1610612749,2018,00,Eric Bledsoe,Eric,eric-bledsoe,6,G,6-1,205,"DEC 09, 1989",29.0,8,Kentucky,202339,,1610612749,Milwaukee Bucks
+1610612749,2018,00,Donte DiVincenzo,Donte,donte-divincenzo,9,G,6-4,203,"JAN 31, 1997",22.0,R,Villanova,1628978,,1610612749,Milwaukee Bucks
+1610612749,2018,00,Brook Lopez,Brook,brook-lopez,11,C,7-0,270,"APR 01, 1988",31.0,10,Stanford,201572,,1610612749,Milwaukee Bucks
+1610612749,2018,00,Tim Frazier,Tim,tim-frazier,12,G,6-1,170,"NOV 01, 1990",28.0,4,Penn State,204025,,1610612749,Milwaukee Bucks
+1610612749,2018,00,Malcolm Brogdon,Malcolm,malcolm-brogdon,13,G,6-5,229,"DEC 11, 1992",26.0,2,Virginia,1627763,,1610612749,Milwaukee Bucks
+1610612749,2018,00,Pau Gasol,Pau,pau-gasol,17,C-F,7-0,250,"JUL 06, 1980",38.0,17,FC Barcelona,2200,,1610612749,Milwaukee Bucks
+1610612749,2018,00,Tony Snell,Tony,tony-snell,21,G,6-7,213,"NOV 10, 1991",27.0,5,New Mexico,203503,,1610612749,Milwaukee Bucks
+1610612749,2018,00,Khris Middleton,Khris,khris-middleton,22,F,6-8,222,"AUG 12, 1991",27.0,6,Texas A&M,203114,,1610612749,Milwaukee Bucks
+1610612749,2018,00,Sterling Brown,Sterling,sterling-brown,23,G,6-6,232,"FEB 10, 1995",24.0,1,Southern Methodist,1628425,,1610612749,Milwaukee Bucks
+1610612749,2018,00,Pat Connaughton,Pat,pat-connaughton,24,G,6-4,209,"JAN 06, 1993",26.0,3,Notre Dame,1626192,,1610612749,Milwaukee Bucks
+1610612749,2018,00,Giannis Antetokounmpo,Giannis,giannis-antetokounmpo,34,F,6-11,242,"DEC 06, 1994",24.0,5,Filathlitikos,203507,#15 Pick in 2013 Draft,1610612749,Milwaukee Bucks
+1610612749,2018,00,Nikola Mirotic,Nikola,nikola-mirotic,41,F,6-10,250,"FEB 11, 1991",28.0,4,Real Madrid,202703,,1610612749,Milwaukee Bucks
+1610612749,2018,00,Bonzie Colson,Bonzie,bonzie-colson,50,F,6-6,225,"JAN 12, 1996",23.0,R,Notre Dame,1629045,,1610612749,Milwaukee Bucks
+1610612749,2018,00,Ersan Ilyasova,Ersan,ersan-ilyasova,77,F,6-10,235,"MAY 15, 1987",32.0,10,FC Barcelona,101141,,1610612749,Milwaukee Bucks
+1610612750,2018,00,Jeff Teague,Jeff,jeff-teague,0,G,6-2,195,"JUN 10, 1988",31.0,9,Wake Forest,201952,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Tyus Jones,Tyus,tyus-jones,1,G,6-2,196,"MAY 10, 1996",23.0,3,Duke,1626145,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Jared Terrell,Jared,jared-terrell,3,G,6-3,227,"FEB 10, 1995",24.0,R,Rhode Island,1629123,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Gorgui Dieng,Gorgui,gorgui-dieng,5,C,6-11,252,"JAN 18, 1990",29.0,5,Louisville,203476,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Jerryd Bayless,Jerryd,jerryd-bayless,8,G,6-3,200,"AUG 20, 1988",30.0,10,Arizona,201573,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Luol Deng,Luol,luol-deng,9,F,6-9,237,"APR 16, 1985",34.0,14,Duke,2736,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,C.J. Williams,C.J.,cj-williams,12,G,6-5,226,"FEB 06, 1990",29.0,1,North Carolina State,203710,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Cam Reynolds,Cam,cam-reynolds,13,G,6-8,225,"FEB 07, 1995",24.0,R,Tulane,1629244,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Josh Okogie,Josh,josh-okogie,20,G,6-4,212,"SEP 01, 1998",20.0,R,Georgia Tech,1629006,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Andrew Wiggins,Andrew,andrew-wiggins,22,F-G,6-8,194,"FEB 23, 1995",24.0,4,Kansas,203952,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Derrick Rose,Derrick,derrick-rose,25,G,6-3,200,"OCT 04, 1988",30.0,9,Memphis,201565,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Keita Bates-Diop,Keita,keita-bates-diop,31,F,6-9,229,"JAN 23, 1996",23.0,R,Ohio State,1628966,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Karl-Anthony Towns,Karl-Anthony,karl-anthony-towns,32,C,7-0,248,"NOV 15, 1995",23.0,3,Kentucky,1626157,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Robert Covington,Robert,robert-covington,33,F,6-9,225,"DEC 14, 1990",28.0,5,Tennessee State,203496,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Dario Šarić,Dario,dario-šarić,36,F,6-10,223,"APR 08, 1994",25.0,2,Anadolu Efes,203967,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Anthony Tolliver,Anthony,anthony-tolliver,43,F,6-8,250,"JUN 01, 1985",34.0,10,Creighton,201229,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Mitchell Creek,Mitchell,mitchell-creek,55,F-G,6-6,225,"APR 27, 1992",27.0,R,Gottingen,1628249,,1610612750,Minnesota Timberwolves
+1610612750,2018,00,Taj Gibson,Taj,taj-gibson,67,F,6-9,232,"JUN 24, 1985",34.0,9,Southern California,201959,,1610612750,Minnesota Timberwolves
+1610612751,2018,00,Rodions Kurucs,Rodions,rodions-kurucs,00,F,6-9,210,"FEB 05, 1998",21.0,R,FC Barcelona,1629066,,1610612751,Brooklyn Nets
+1610612751,2018,00,D'Angelo Russell,D'Angelo,dangelo-russell,1,G,6-5,198,"FEB 23, 1996",23.0,3,Ohio State,1626156,,1610612751,Brooklyn Nets
+1610612751,2018,00,Jared Dudley,Jared,jared-dudley,6,F,6-7,237,"JUL 10, 1985",33.0,11,Boston College,201162,,1610612751,Brooklyn Nets
+1610612751,2018,00,Spencer Dinwiddie,Spencer,spencer-dinwiddie,8,G,6-6,210,"APR 06, 1993",26.0,4,Colorado,203915,,1610612751,Brooklyn Nets
+1610612751,2018,00,DeMarre Carroll,DeMarre,demarre-carroll,9,F,6-8,215,"JUL 27, 1986",32.0,9,Missouri,201960,,1610612751,Brooklyn Nets
+1610612751,2018,00,Theo Pinson,Theo,theo-pinson,10,G-F,6-6,218,"NOV 05, 1995",23.0,R,North Carolina,1629033,,1610612751,Brooklyn Nets
+1610612751,2018,00,Joe Harris,Joe,joe-harris,12,F-G,6-6,218,"SEP 06, 1991",27.0,4,Virginia,203925,,1610612751,Brooklyn Nets
+1610612751,2018,00,Shabazz Napier,Shabazz,shabazz-napier,13,G,6-1,180,"JUL 14, 1991",27.0,4,Connecticut,203894,,1610612751,Brooklyn Nets
+1610612751,2018,00,Alan Williams,Alan,alan-williams,15,F-C,6-8,265,"JAN 28, 1993",26.0,3,Cal-Santa Barbara,1626210,,1610612751,Brooklyn Nets
+1610612751,2018,00,Ed Davis,Ed,ed-davis,17,C,6-10,225,"JUN 05, 1989",30.0,8,North Carolina,202334,,1610612751,Brooklyn Nets
+1610612751,2018,00,Treveon Graham,Treveon,treveon-graham,21,F,6-5,225,"OCT 28, 1993",25.0,2,Va Commonwealth,1626203,,1610612751,Brooklyn Nets
+1610612751,2018,00,Caris LeVert,Caris,caris-levert,22,G,6-7,204,"AUG 25, 1994",24.0,2,Michigan,1627747,,1610612751,Brooklyn Nets
+1610612751,2018,00,Rondae Hollis-Jefferson,Rondae,rondae-hollis-jefferson,24,F,6-7,217,"JAN 03, 1995",24.0,3,Arizona,1626178,,1610612751,Brooklyn Nets
+1610612751,2018,00,Dzanan Musa,Dzanan,dzanan-musa,30,G-F,6-9,208,"MAY 08, 1999",20.0,R,Cedevita,1629058,,1610612751,Brooklyn Nets
+1610612751,2018,00,Jarrett Allen,Jarrett,jarrett-allen,31,C,6-11,237,"APR 21, 1998",21.0,1,Texas,1628386,,1610612751,Brooklyn Nets
+1610612751,2018,00,Allen Crabbe,Allen,allen-crabbe,33,G-F,6-6,212,"APR 09, 1992",27.0,5,California,203459,,1610612751,Brooklyn Nets
+1610612752,2018,00,Kadeem Allen,Kadeem,kadeem-allen,0,G,6-3,200,"JAN 15, 1993",26.0,1,Arizona,1628443,,1610612752,New York Knicks
+1610612752,2018,00,Emmanuel Mudiay,Emmanuel,emmanuel-mudiay,1,G,6-5,200,"MAR 05, 1996",23.0,3,Guangdong,1626144,,1610612752,New York Knicks
+1610612752,2018,00,Luke Kornet,Luke,luke-kornet,2,F-C,7-1,250,"JUL 15, 1995",23.0,1,Vanderbilt,1628436,,1610612752,New York Knicks
+1610612752,2018,00,Billy Garrett,Billy,billy-garrett,3,G-F,6-6,215,"OCT 16, 1994",24.0,R,DePaul,1628656,,1610612752,New York Knicks
+1610612752,2018,00,Isaiah Hicks,Isaiah,isaiah-hicks,4,F,6-9,230,"JUL 24, 1994",24.0,1,North Carolina,1628439,,1610612752,New York Knicks
+1610612752,2018,00,Dennis Smith Jr.,Dennis,dennis-smith-jr,5,G,6-3,195,"NOV 25, 1997",21.0,1,North Carolina State,1628372,,1610612752,New York Knicks
+1610612752,2018,00,DeAndre Jordan,DeAndre,deandre-jordan,6,C,6-11,265,"JUL 21, 1988",30.0,10,Texas A&M,201599,,1610612752,New York Knicks
+1610612752,2018,00,Mario Hezonja,Mario,mario-hezonja,8,F,6-8,225,"FEB 25, 1995",24.0,3,FC Barcelona,1626209,,1610612752,New York Knicks
+1610612752,2018,00,Frank Ntilikina,Frank,frank-ntilikina,11,G,6-6,200,"JUL 28, 1998",20.0,1,Strasbourg IG,1628373,,1610612752,New York Knicks
+1610612752,2018,00,Henry Ellenson,Henry,henry-ellenson,13,F,6-11,245,"JAN 13, 1997",22.0,2,Marquette,1627740,,1610612752,New York Knicks
+1610612752,2018,00,Allonzo Trier,Allonzo,allonzo-trier,14,G,6-5,200,"JAN 17, 1996",23.0,R,Arizona,1629019,,1610612752,New York Knicks
+1610612752,2018,00,Kevin Knox II,Kevin,kevin-knox-ii,20,F,6-9,215,"AUG 11, 1999",19.0,R,Kentucky,1628995,,1610612752,New York Knicks
+1610612752,2018,00,Damyean Dotson,Damyean,damyean-dotson,21,G,6-6,210,"MAY 06, 1994",25.0,1,Houston,1628422,,1610612752,New York Knicks
+1610612752,2018,00,Mitchell Robinson,Mitchell,mitchell-robinson,26,C,7-1,240,"APR 01, 1998",21.0,R,Western Kentucky,1629011,#36 Pick in 2018 Draft,1610612752,New York Knicks
+1610612752,2018,00,John Jenkins,John,john-jenkins,30,G,6-4,215,"MAR 06, 1991",28.0,5,Vanderbilt,203098,,1610612752,New York Knicks
+1610612752,2018,00,Noah Vonleh,Noah,noah-vonleh,32,F,6-9,250,"AUG 24, 1995",23.0,4,Indiana,203943,,1610612752,New York Knicks
+1610612752,2018,00,Lance Thomas,Lance,lance-thomas,42,F,6-8,240,"APR 24, 1988",31.0,7,Duke,202498,,1610612752,New York Knicks
+1610612753,2018,00,Aaron Gordon,Aaron,aaron-gordon,00,F,6-9,220,"SEP 16, 1995",23.0,4,Arizona,203932,,1610612753,Orlando Magic
+1610612753,2018,00,Jonathan Isaac,Jonathan,jonathan-isaac,1,F,6-10,210,"OCT 03, 1997",21.0,1,Florida State,1628371,#6 Pick in 2017 Draft,1610612753,Orlando Magic
+1610612753,2018,00,Jarell Martin,Jarell,jarell-martin,2,F,6-10,239,"MAY 24, 1994",25.0,3,Louisiana State,1626185,,1610612753,Orlando Magic
+1610612753,2018,00,Troy Caupain,Troy,troy-caupain,3,G,6-4,210,"NOV 29, 1995",23.0,R,Cincinnati,1628505,,1610612753,Orlando Magic
+1610612753,2018,00,Mo Bamba,Mo,mo-bamba,5,C,7-0,221,"MAY 12, 1998",21.0,R,Texas,1628964,,1610612753,Orlando Magic
+1610612753,2018,00,Michael Carter-Williams,Michael,michael-carter-williams,7,G,6-6,190,"OCT 10, 1991",27.0,5,Syracuse,203487,,1610612753,Orlando Magic
+1610612753,2018,00,Nikola Vučević,Nikola,nikola-vučević,9,C,7-0,260,"OCT 24, 1990",28.0,7,Southern California,202696,,1610612753,Orlando Magic
+1610612753,2018,00,Evan Fournier,Evan,evan-fournier,10,G-F,6-7,205,"OCT 29, 1992",26.0,6,Poitiers Basket 86,203095,,1610612753,Orlando Magic
+1610612753,2018,00,Amile Jefferson,Amile,amile-jefferson,11,F,6-9,222,"MAY 07, 1993",26.0,R,Duke,1628518,,1610612753,Orlando Magic
+1610612753,2018,00,D.J. Augustin,D.J.,dj-augustin,14,G,6-0,183,"NOV 10, 1987",31.0,10,Texas,201571,,1610612753,Orlando Magic
+1610612753,2018,00,Markelle Fultz,Markelle,markelle-fultz,20,G,6-4,200,"MAY 29, 1998",21.0,1,Washington,1628365,,1610612753,Orlando Magic
+1610612753,2018,00,Timofey Mozgov,Timofey,timofey-mozgov,21,C,7-1,275,"JUL 16, 1986",32.0,8,Khimki,202389,,1610612753,Orlando Magic
+1610612753,2018,00,Jerian Grant,Jerian,jerian-grant,22,G,6-4,205,"OCT 09, 1992",26.0,3,Notre Dame,1626170,,1610612753,Orlando Magic
+1610612753,2018,00,Khem Birch,Khem,khem-birch,24,C,6-9,233,"SEP 28, 1992",26.0,1,UNLV,203920,,1610612753,Orlando Magic
+1610612753,2018,00,Wes Iwundu,Wes,wes-iwundu,25,F,6-7,195,"DEC 20, 1994",24.0,1,Kansas State,1628411,,1610612753,Orlando Magic
+1610612753,2018,00,Terrence Ross,Terrence,terrence-ross,31,G-F,6-7,206,"FEB 05, 1991",28.0,6,Washington,203082,,1610612753,Orlando Magic
+1610612753,2018,00,Melvin Frazier Jr.,Melvin,melvin-frazier-jr,35,G-F,6-6,200,"AUG 30, 1996",22.0,R,Tulane,1628982,,1610612753,Orlando Magic
+1610612754,2018,00,Darren Collison,Darren,darren-collison,2,G,6-0,175,"AUG 23, 1987",31.0,9,UCLA,201954,,1610612754,Indiana Pacers
+1610612754,2018,00,Aaron Holiday,Aaron,aaron-holiday,3,G,6-1,185,"SEP 30, 1996",22.0,R,UCLA,1628988,,1610612754,Indiana Pacers
+1610612754,2018,00,Victor Oladipo,Victor,victor-oladipo,4,G,6-4,210,"MAY 04, 1992",27.0,5,Indiana,203506,,1610612754,Indiana Pacers
+1610612754,2018,00,Edmond Sumner,Edmond,edmond-sumner,5,G,6-6,176,"DEC 31, 1995",23.0,1,Xavier,1628410,,1610612754,Indiana Pacers
+1610612754,2018,00,Cory Joseph,Cory,cory-joseph,6,G,6-3,193,"AUG 20, 1991",27.0,7,Texas,202709,,1610612754,Indiana Pacers
+1610612754,2018,00,Kyle O'Quinn,Kyle,kyle-oquinn,10,C,6-10,250,"MAR 26, 1990",29.0,6,Norfolk State,203124,,1610612754,Indiana Pacers
+1610612754,2018,00,Domantas Sabonis,Domantas,domantas-sabonis,11,F,6-11,240,"MAY 03, 1996",23.0,2,Gonzaga,1627734,,1610612754,Indiana Pacers
+1610612754,2018,00,Doug McDermott,Doug,doug-mcdermott,20,F,6-8,225,"JAN 03, 1992",27.0,4,Creighton,203926,,1610612754,Indiana Pacers
+1610612754,2018,00,Thaddeus Young,Thaddeus,thaddeus-young,21,F,6-8,221,"JUN 21, 1988",31.0,11,Georgia Tech,201152,,1610612754,Indiana Pacers
+1610612754,2018,00,T.J. Leaf,T.J.,tj-leaf,22,F,6-10,225,"APR 30, 1997",22.0,1,UCLA,1628388,,1610612754,Indiana Pacers
+1610612754,2018,00,Wesley Matthews,Wesley,wesley-matthews,23,G-F,6-5,220,"OCT 14, 1986",32.0,9,Marquette,202083,,1610612754,Indiana Pacers
+1610612754,2018,00,Alize Johnson,Alize,alize-johnson,24,F,6-9,212,"APR 22, 1996",23.0,R,Missouri State,1628993,,1610612754,Indiana Pacers
+1610612754,2018,00,Davon Reed,Davon,davon-reed,32,G,6-5,208,"JUN 11, 1995",24.0,1,Miami,1628432,,1610612754,Indiana Pacers
+1610612754,2018,00,Myles Turner,Myles,myles-turner,33,C-F,6-11,250,"MAR 24, 1996",23.0,3,Texas,1626167,,1610612754,Indiana Pacers
+1610612754,2018,00,Bojan Bogdanovic,Bojan,bojan-bogdanovic,44,F,6-8,216,"APR 18, 1989",30.0,4,Fenerbahce,202711,,1610612754,Indiana Pacers
+1610612755,2018,00,Mike Scott,Mike,mike-scott,1,F,6-8,237,"JUL 16, 1988",30.0,6,Virginia,203118,,1610612755,Philadelphia 76ers
+1610612755,2018,00,Amir Johnson,Amir,amir-johnson,5,C-F,6-9,240,"MAY 01, 1987",32.0,13,Westchester HS (CA),101161,,1610612755,Philadelphia 76ers
+1610612755,2018,00,Haywood Highsmith,Haywood,haywood-highsmith,7,F,6-7,220,"DEC 09, 1996",22.0,R,Wheeling Jesuit,1629312,,1610612755,Philadelphia 76ers
+1610612755,2018,00,Zhaire Smith,Zhaire,zhaire-smith,8,G,6-4,199,"JUN 04, 1999",20.0,R,Texas Tech,1629015,,1610612755,Philadelphia 76ers
+1610612755,2018,00,James Ennis III,James,james-ennis-iii,11,F,6-7,210,"JUL 01, 1990",28.0,4,Cal State-Long Beach,203516,,1610612755,Philadelphia 76ers
+1610612755,2018,00,T.J. McConnell,T.J.,tj-mcconnell,12,G,6-2,190,"MAR 25, 1992",27.0,3,Arizona,204456,,1610612755,Philadelphia 76ers
+1610612755,2018,00,Jonathon Simmons,Jonathon,jonathon-simmons,14,F,6-6,195,"SEP 14, 1989",29.0,3,Houston,203613,,1610612755,Philadelphia 76ers
+1610612755,2018,00,JJ Redick,JJ,jj-redick,17,G,6-4,200,"JUN 24, 1984",35.0,12,Duke,200755,,1610612755,Philadelphia 76ers
+1610612755,2018,00,Shake Milton,Shake,shake-milton,18,G,6-6,207,"SEP 26, 1996",22.0,R,Southern Methodist,1629003,,1610612755,Philadelphia 76ers
+1610612755,2018,00,Joel Embiid,Joel,joel-embiid,21,F-C,7-0,250,"MAR 16, 1994",25.0,2,Kansas,203954,#3 Pick in 2014 Draft,1610612755,Philadelphia 76ers
+1610612755,2018,00,Jimmy Butler III,Jimmy,jimmy-butler-iii,23,G-F,6-8,232,"SEP 14, 1989",29.0,7,Marquette,202710,,1610612755,Philadelphia 76ers
+1610612755,2018,00,Ben Simmons,Ben,ben-simmons,25,G-F,6-10,230,"JUL 20, 1996",22.0,1,Louisiana State,1627732,,1610612755,Philadelphia 76ers
+1610612755,2018,00,Furkan Korkmaz,Furkan,furkan-korkmaz,30,G-F,6-7,190,"JUL 24, 1997",21.0,1,Anadolu Efes,1627788,,1610612755,Philadelphia 76ers
+1610612755,2018,00,Tobias Harris,Tobias,tobias-harris,33,F,6-9,235,"JUL 15, 1992",26.0,7,Tennessee,202699,,1610612755,Philadelphia 76ers
+1610612755,2018,00,Jonah Bolden,Jonah,jonah-bolden,43,F,6-10,220,"JAN 02, 1996",23.0,R,UCLA,1628413,,1610612755,Philadelphia 76ers
+1610612755,2018,00,Boban Marjanovic,Boban,boban-marjanovic,51,C,7-3,290,"AUG 15, 1988",30.0,3,Crvena zvezda,1626246,,1610612755,Philadelphia 76ers
+1610612755,2018,00,Greg Monroe,Greg,greg-monroe,55,C,6-11,265,"JUN 04, 1990",29.0,8,Georgetown,202328,,1610612755,Philadelphia 76ers
+1610612756,2018,00,Devin Booker,Devin,devin-booker,1,G,6-6,210,"OCT 30, 1996",22.0,3,Kentucky,1626164,#13 Pick in 2015 Draft,1610612756,Phoenix Suns
+1610612756,2018,00,Elie Okobo,Elie,elie-okobo,2,G,6-3,190,"OCT 23, 1997",21.0,R,Elan Bearnais,1629059,,1610612756,Phoenix Suns
+1610612756,2018,00,Kelly Oubre Jr.,Kelly,kelly-oubre-jr,3,F,6-7,205,"DEC 09, 1995",23.0,3,Kansas,1626162,,1610612756,Phoenix Suns
+1610612756,2018,00,George King,George,george-king,8,F,6-6,220,"JAN 15, 1994",25.0,R,University of Colorado Boulder,1628994,,1610612756,Phoenix Suns
+1610612756,2018,00,Jamal Crawford,Jamal,jamal-crawford,11,G,6-5,185,"MAR 20, 1980",39.0,18,Michigan,2037,,1610612756,Phoenix Suns
+1610612756,2018,00,T.J. Warren,T.J.,tj-warren,12,F,6-8,215,"SEP 05, 1993",25.0,4,North Carolina State,203933,,1610612756,Phoenix Suns
+1610612756,2018,00,De'Anthony Melton,De'Anthony,deanthony-melton,14,G,6-4,200,"MAY 28, 1998",21.0,R,USC,1629001,,1610612756,Phoenix Suns
+1610612756,2018,00,Tyler Johnson,Tyler,tyler-johnson,16,G,6-4,190,"MAY 07, 1992",27.0,4,Fresno State,204020,,1610612756,Phoenix Suns
+1610612756,2018,00,Josh Jackson,Josh,josh-jackson,20,F,6-8,200,"FEB 10, 1997",22.0,1,Kansas,1628367,,1610612756,Phoenix Suns
+1610612756,2018,00,Richaun Holmes,Richaun,richaun-holmes,21,F-C,6-10,235,"OCT 15, 1993",25.0,3,Bowling Green,1626158,,1610612756,Phoenix Suns
+1610612756,2018,00,Deandre Ayton,Deandre,deandre-ayton,22,C,7-1,250,"JUL 23, 1998",20.0,R,Arizona,1629028,,1610612756,Phoenix Suns
+1610612756,2018,00,Mikal Bridges,Mikal,mikal-bridges,25,F,6-7,210,"AUG 30, 1996",22.0,R,Villanova,1628969,,1610612756,Phoenix Suns
+1610612756,2018,00,Ray Spalding,Ray,ray-spalding,26,F,6-10,215,"MAR 11, 1997",22.0,R,Louisville,1629034,,1610612756,Phoenix Suns
+1610612756,2018,00,Troy Daniels,Troy,troy-daniels,30,G,6-4,205,"JUL 15, 1991",27.0,5,Va Commonwealth,203584,,1610612756,Phoenix Suns
+1610612756,2018,00,Jimmer Fredette,Jimmer,jimmer-fredette,32,G,6-2,195,"FEB 25, 1989",30.0,5,Brigham Young,202690,,1610612756,Phoenix Suns
+1610612756,2018,00,Dragan Bender,Dragan,dragan-bender,35,F,7-1,225,"NOV 17, 1997",21.0,2,Maccabi Tel Aviv,1627733,,1610612756,Phoenix Suns
+1610612757,2018,00,Enes Freedom,Enes,enes-freedom,00,C,6-11,250,"MAY 20, 1992",27.0,7,Fenerbahce,202683,,1610612757,Portland Trail Blazers
+1610612757,2018,00,Damian Lillard,Damian,damian-lillard,0,G,6-3,195,"JUL 15, 1990",28.0,6,Weber State,203081,Signed on 07/19/25,1610612757,Portland Trail Blazers
+1610612757,2018,00,Evan Turner,Evan,evan-turner,1,G-F,6-7,220,"OCT 27, 1988",30.0,8,Ohio State,202323,,1610612757,Portland Trail Blazers
+1610612757,2018,00,CJ McCollum,CJ,cj-mccollum,3,G,6-3,190,"SEP 19, 1991",27.0,5,Lehigh,203468,,1610612757,Portland Trail Blazers
+1610612757,2018,00,Maurice Harkless,Maurice,maurice-harkless,4,F,6-9,220,"MAY 11, 1993",26.0,6,"St. John's, N.Y.",203090,,1610612757,Portland Trail Blazers
+1610612757,2018,00,Rodney Hood,Rodney,rodney-hood,5,G,6-8,206,"OCT 20, 1992",26.0,4,Duke,203918,,1610612757,Portland Trail Blazers
+1610612757,2018,00,Al-Farouq Aminu,Al-Farouq,al-farouq-aminu,8,F,6-9,220,"SEP 21, 1990",28.0,8,Wake Forest,202329,,1610612757,Portland Trail Blazers
+1610612757,2018,00,Gary Trent Jr.,Gary,gary-trent-jr,9,G,6-6,205,"JAN 18, 1999",20.0,R,Duke,1629018,,1610612757,Portland Trail Blazers
+1610612757,2018,00,Jake Layman,Jake,jake-layman,10,F,6-9,215,"MAR 07, 1994",25.0,2,Maryland,1627774,,1610612757,Portland Trail Blazers
+1610612757,2018,00,Meyers Leonard,Meyers,meyers-leonard,11,F-C,7-1,255,"FEB 27, 1992",27.0,6,Illinois,203086,,1610612757,Portland Trail Blazers
+1610612757,2018,00,Skal Labissiere,Skal,skal-labissiere,17,F,6-11,235,"MAR 18, 1996",23.0,2,Kentucky,1627746,,1610612757,Portland Trail Blazers
+1610612757,2018,00,Anfernee Simons,Anfernee,anfernee-simons,24,G,6-4,185,"JUN 08, 1999",20.0,R,Edgewater HS (FL),1629014,,1610612757,Portland Trail Blazers
+1610612757,2018,00,Jusuf Nurkić,Jusuf,jusuf-nurkić,27,C,7-0,275,"AUG 23, 1994",24.0,4,Cedevita,203994,,1610612757,Portland Trail Blazers
+1610612757,2018,00,Seth Curry,Seth,seth-curry,31,G,6-2,185,"AUG 23, 1990",28.0,4,Duke,203552,,1610612757,Portland Trail Blazers
+1610612757,2018,00,Zach Collins,Zach,zach-collins,33,F-C,7-0,235,"NOV 19, 1997",21.0,1,Gonzaga,1628380,,1610612757,Portland Trail Blazers
+1610612758,2018,00,Willie Cauley-Stein,Willie,willie-cauley-stein,00,C,7-0,240,"AUG 18, 1993",25.0,3,Kentucky,1626161,,1610612758,Sacramento Kings
+1610612758,2018,00,Yogi Ferrell,Yogi,yogi-ferrell,3,G,6-0,180,"MAY 09, 1993",26.0,2,Indiana,1627812,,1610612758,Sacramento Kings
+1610612758,2018,00,De'Aaron Fox,De'Aaron,deaaron-fox,5,G,6-3,175,"DEC 20, 1997",21.0,1,Kentucky,1628368,,1610612758,Sacramento Kings
+1610612758,2018,00,Bogdan Bogdanović,Bogdan,bogdan-bogdanović,8,G,6-6,205,"AUG 18, 1992",26.0,1,Fenerbahce,203992,,1610612758,Sacramento Kings
+1610612758,2018,00,BJ Johnson,BJ,bj-johnson,9,F,6-7,200,"DEC 21, 1995",23.0,R,La Salle,1629168,,1610612758,Sacramento Kings
+1610612758,2018,00,Frank Mason III,Frank,frank-mason-iii,10,G,5-11,190,"APR 03, 1994",25.0,1,Kansas,1628412,,1610612758,Sacramento Kings
+1610612758,2018,00,Alec Burks,Alec,alec-burks,13,G,6-6,214,"JUL 20, 1991",27.0,7,Colorado,202692,,1610612758,Sacramento Kings
+1610612758,2018,00,Troy Williams,Troy,troy-williams,19,F,6-7,218,"DEC 30, 1994",24.0,2,Indiana,1627786,,1610612758,Sacramento Kings
+1610612758,2018,00,Harry Giles III,Harry,harry-giles-iii,20,F-C,6-10,240,"APR 22, 1998",21.0,R,Duke,1628385,,1610612758,Sacramento Kings
+1610612758,2018,00,Buddy Hield,Buddy,buddy-hield,24,G,6-4,214,"DEC 17, 1992",26.0,2,Oklahoma,1627741,,1610612758,Sacramento Kings
+1610612758,2018,00,Wenyen Gabriel,Wenyen,wenyen-gabriel,32,F,6-9,205,"MAR 26, 1997",22.0,R,Kentucky,1629117,,1610612758,Sacramento Kings
+1610612758,2018,00,Corey Brewer,Corey,corey-brewer,33,G-F,6-9,186,"MAR 05, 1986",33.0,11,Florida,201147,,1610612758,Sacramento Kings
+1610612758,2018,00,Marvin Bagley III,Marvin,marvin-bagley-iii,35,F,6-11,234,"MAR 14, 1999",20.0,R,Duke,1628963,,1610612758,Sacramento Kings
+1610612758,2018,00,Harrison Barnes,Harrison,harrison-barnes,40,F,6-8,225,"MAY 30, 1992",27.0,6,North Carolina,203084,,1610612758,Sacramento Kings
+1610612758,2018,00,Kosta Koufos,Kosta,kosta-koufos,41,C,7-0,245,"FEB 24, 1989",30.0,10,Ohio State,201585,,1610612758,Sacramento Kings
+1610612758,2018,00,Caleb Swanigan,Caleb,caleb-swanigan,50,F,6-9,250,"APR 18, 1997",22.0,1,Purdue,1628403,,1610612758,Sacramento Kings
+1610612758,2018,00,Nemanja Bjelica,Nemanja,nemanja-bjelica,88,F,6-10,234,"MAY 09, 1988",31.0,3,Fenerbahce,202357,,1610612758,Sacramento Kings
+1610612759,2018,00,Lonnie Walker IV,Lonnie,lonnie-walker-iv,1,G,6-5,205,"DEC 14, 1998",20.0,R,Miami,1629022,,1610612759,San Antonio Spurs
+1610612759,2018,00,Quincy Pondexter,Quincy,quincy-pondexter,3,F,6-7,230,"MAR 10, 1988",31.0,6,Washington,202347,,1610612759,San Antonio Spurs
+1610612759,2018,00,Derrick White,Derrick,derrick-white,4,G,6-4,190,"JUL 02, 1994",24.0,1,Colorado,1628401,,1610612759,San Antonio Spurs
+1610612759,2018,00,Dejounte Murray,Dejounte,dejounte-murray,5,G,6-5,170,"SEP 19, 1996",22.0,2,Washington,1627749,,1610612759,San Antonio Spurs
+1610612759,2018,00,Chimezie Metu,Chimezie,chimezie-metu,7,F,6-10,225,"MAR 22, 1997",22.0,R,USC,1629002,,1610612759,San Antonio Spurs
+1610612759,2018,00,Patty Mills,Patty,patty-mills,8,G,6-0,180,"AUG 11, 1988",30.0,9,St. Mary's,201988,,1610612759,San Antonio Spurs
+1610612759,2018,00,DeMar DeRozan,DeMar,demar-derozan,10,G,6-7,220,"AUG 07, 1989",29.0,9,Southern California,201942,,1610612759,San Antonio Spurs
+1610612759,2018,00,Bryn Forbes,Bryn,bryn-forbes,11,G,6-3,190,"JUL 23, 1993",25.0,2,Michigan State,1627854,,1610612759,San Antonio Spurs
+1610612759,2018,00,LaMarcus Aldridge,LaMarcus,lamarcus-aldridge,12,C-F,6-11,260,"JUL 19, 1985",33.0,12,University of Texas at Austin,200746,,1610612759,San Antonio Spurs
+1610612759,2018,00,Drew Eubanks,Drew,drew-eubanks,14,F,6-10,245,"FEB 01, 1997",22.0,R,Oregon State,1629234,,1610612759,San Antonio Spurs
+1610612759,2018,00,Marco Belinelli,Marco,marco-belinelli,18,G-F,6-5,210,"MAR 25, 1986",33.0,11,Fortitudo Bologna,201158,,1610612759,San Antonio Spurs
+1610612759,2018,00,Rudy Gay,Rudy,rudy-gay,22,F,6-8,230,"AUG 17, 1986",32.0,12,Connecticut,200752,,1610612759,San Antonio Spurs
+1610612759,2018,00,Jakob Poeltl,Jakob,jakob-poeltl,25,C,7-0,230,"OCT 15, 1995",23.0,2,Utah,1627751,,1610612759,San Antonio Spurs
+1610612759,2018,00,Ben Moore,Ben,ben-moore,26,F,6-8,220,"MAY 13, 1995",24.0,1,Southern Methodist,1628500,,1610612759,San Antonio Spurs
+1610612759,2018,00,Donatas Motiejunas,Donatas,donatas-motiejunas,28,F-C,7-0,220,"SEP 20, 1990",28.0,5,Lithuania,202700,,1610612759,San Antonio Spurs
+1610612759,2018,00,Dante Cunningham,Dante,dante-cunningham,33,F,6-8,230,"APR 22, 1987",32.0,9,Villanova,201967,,1610612759,San Antonio Spurs
+1610612759,2018,00,Davis Bertans,Davis,davis-bertans,42,F,6-10,225,"NOV 12, 1992",26.0,2,Baskonia,202722,,1610612759,San Antonio Spurs
+1610612760,2018,00,Russell Westbrook,Russell,russell-westbrook,0,G,6-3,200,"NOV 12, 1988",30.0,10,UCLA,201566,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Raymond Felton,Raymond,raymond-felton,2,G,6-1,205,"JUN 26, 1984",35.0,13,North Carolina,101109,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Nerlens Noel,Nerlens,nerlens-noel,3,F-C,6-11,220,"APR 10, 1994",25.0,4,Kentucky,203457,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Markieff Morris,Markieff,markieff-morris,5,F,6-10,245,"SEP 02, 1989",29.0,7,Kansas,202693,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Hamidou Diallo,Hamidou,hamidou-diallo,6,G,6-5,198,"JUL 31, 1998",20.0,R,Kentucky,1628977,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Jawun Evans,Jawun,jawun-evans,8,G,6-0,190,"JUL 26, 1996",22.0,1,Oklahoma State,1628393,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Jerami Grant,Jerami,jerami-grant,9,F,6-9,220,"MAR 12, 1994",25.0,4,Syracuse,203924,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Abdel Nader,Abdel,abdel-nader,11,F,6-6,225,"SEP 25, 1993",25.0,1,Iowa State,1627846,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Steven Adams,Steven,steven-adams,12,C,7-0,265,"JUL 20, 1993",25.0,5,Pittsburgh,203500,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Paul George,Paul,paul-george,13,F,6-9,220,"MAY 02, 1990",29.0,8,Fresno State,202331,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Donte Grantham,Donte,donte-grantham,15,F,6-8,215,"MAR 19, 1995",24.0,R,Clemson,1629055,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Dennis Schröder,Dennis,dennis-schröder,17,G,6-1,172,"SEP 15, 1993",25.0,5,Braunschweig,203471,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Andre Roberson,Andre,andre-roberson,21,G-F,6-7,210,"DEC 04, 1991",27.0,5,Colorado,203460,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Terrance Ferguson,Terrance,terrance-ferguson,23,G,6-7,190,"MAY 17, 1998",21.0,1,Adelaide,1628390,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Deonte Burton,Deonte,deonte-burton,30,G,6-5,245,"JAN 31, 1994",25.0,R,Iowa State,1629126,,1610612760,Oklahoma City Thunder
+1610612760,2018,00,Patrick Patterson,Patrick,patrick-patterson,54,F,6-9,230,"MAR 14, 1989",30.0,8,Kentucky,202335,,1610612760,Oklahoma City Thunder
+1610612761,2018,00,Patrick McCaw,Patrick,patrick-mccaw,1,G,6-7,185,"OCT 25, 1995",23.0,2,UNLV,1627775,,1610612761,Toronto Raptors
+1610612761,2018,00,Kawhi Leonard,Kawhi,kawhi-leonard,2,F,6-7,230,"JUN 29, 1991",28.0,7,San Diego State,202695,,1610612761,Toronto Raptors
+1610612761,2018,00,OG Anunoby,OG,og-anunoby,3,F,6-8,232,"JUL 17, 1997",21.0,1,Indiana,1628384,,1610612761,Toronto Raptors
+1610612761,2018,00,Kyle Lowry,Kyle,kyle-lowry,7,G,6-1,196,"MAR 25, 1986",33.0,12,Villanova,200768,,1610612761,Toronto Raptors
+1610612761,2018,00,Jordan Loyd,Jordan,jordan-loyd,8,G,6-4,210,"JUL 27, 1993",25.0,R,Indianapolis,1628070,,1610612761,Toronto Raptors
+1610612761,2018,00,Serge Ibaka,Serge,serge-ibaka,9,C-F,6-10,235,"SEP 18, 1989",29.0,9,Ricoh Manresa,201586,,1610612761,Toronto Raptors
+1610612761,2018,00,Malcolm Miller,Malcolm,malcolm-miller,13,F,6-7,210,"MAR 06, 1993",26.0,1,Holy Cross,1626259,,1610612761,Toronto Raptors
+1610612761,2018,00,Danny Green,Danny,danny-green,14,G-F,6-6,215,"JUN 22, 1987",32.0,9,North Carolina,201980,,1610612761,Toronto Raptors
+1610612761,2018,00,Eric Moreland,Eric,eric-moreland,15,F-C,6-10,238,"DEC 24, 1991",27.0,3,Oregon State,203961,,1610612761,Toronto Raptors
+1610612761,2018,00,Jeremy Lin,Jeremy,jeremy-lin,17,G,6-3,200,"AUG 23, 1988",30.0,8,Harvard,202391,,1610612761,Toronto Raptors
+1610612761,2018,00,Jodie Meeks,Jodie,jodie-meeks,20,G,6-4,210,"AUG 21, 1987",31.0,9,Kentucky,201975,,1610612761,Toronto Raptors
+1610612761,2018,00,Fred VanVleet,Fred,fred-vanvleet,23,G,6-0,195,"FEB 25, 1994",25.0,2,Wichita State,1627832,,1610612761,Toronto Raptors
+1610612761,2018,00,Norman Powell,Norman,norman-powell,24,F-G,6-4,215,"MAY 25, 1993",26.0,3,UCLA,1626181,,1610612761,Toronto Raptors
+1610612761,2018,00,Chris Boucher,Chris,chris-boucher,25,F,6-10,200,"JAN 11, 1993",26.0,1,Oregon,1628449,,1610612761,Toronto Raptors
+1610612761,2018,00,Marc Gasol,Marc,marc-gasol,33,C,7-1,255,"JAN 29, 1985",34.0,10,FC Barcelona,201188,,1610612761,Toronto Raptors
+1610612761,2018,00,Pascal Siakam,Pascal,pascal-siakam,43,F,6-9,230,"APR 02, 1994",25.0,2,New Mexico State,1627783,,1610612761,Toronto Raptors
+1610612762,2018,00,Joe Ingles,Joe,joe-ingles,2,F,6-8,226,"OCT 02, 1987",31.0,4,Maccabi Tel Aviv,204060,,1610612762,Utah Jazz
+1610612762,2018,00,Ricky Rubio,Ricky,ricky-rubio,3,G,6-4,190,"OCT 21, 1990",28.0,7,FC Barcelona,201937,,1610612762,Utah Jazz
+1610612762,2018,00,Danté Exum,Danté,danté-exum,11,G,6-6,190,"JUL 13, 1995",23.0,3,Australian Institute of Sport,203957,,1610612762,Utah Jazz
+1610612762,2018,00,Tony Bradley,Tony,tony-bradley,13,C,6-10,248,"JAN 08, 1998",21.0,1,North Carolina,1628396,,1610612762,Utah Jazz
+1610612762,2018,00,Derrick Favors,Derrick,derrick-favors,15,F-C,6-10,265,"JUL 15, 1991",27.0,8,Georgia Tech,202324,,1610612762,Utah Jazz
+1610612762,2018,00,Thabo Sefolosha,Thabo,thabo-sefolosha,22,F,6-7,220,"MAY 02, 1984",35.0,12,Angelico Biella,200757,,1610612762,Utah Jazz
+1610612762,2018,00,Royce O'Neale,Royce,royce-oneale,23,F,6-6,226,"JUN 05, 1993",26.0,1,Baylor,1626220,,1610612762,Utah Jazz
+1610612762,2018,00,Grayson Allen,Grayson,grayson-allen,24,G,6-5,198,"OCT 08, 1995",23.0,R,Duke,1628960,,1610612762,Utah Jazz
+1610612762,2018,00,Raul Neto,Raul,raul-neto,25,G,6-1,179,"MAY 19, 1992",27.0,3,Murcia,203526,,1610612762,Utah Jazz
+1610612762,2018,00,Kyle Korver,Kyle,kyle-korver,26,G-F,6-7,212,"MAR 17, 1981",38.0,15,Creighton,2594,,1610612762,Utah Jazz
+1610612762,2018,00,Rudy Gobert,Rudy,rudy-gobert,27,C,7-1,245,"JUN 26, 1992",27.0,5,Cholet,203497,,1610612762,Utah Jazz
+1610612762,2018,00,Naz Mitrou-Long,Naz,naz-mitrou-long,30,G,6-4,218,"AUG 03, 1993",25.0,1,Iowa State,1628513,,1610612762,Utah Jazz
+1610612762,2018,00,Georges Niang,Georges,georges-niang,31,F,6-8,230,"JUN 17, 1993",26.0,2,Iowa State,1627777,Traded from BOS on 08/06/25,1610612762,Utah Jazz
+1610612762,2018,00,Ekpe Udoh,Ekpe,ekpe-udoh,33,C-F,6-10,245,"MAY 20, 1987",32.0,6,Baylor,202327,,1610612762,Utah Jazz
+1610612762,2018,00,Tyler Cavanaugh,Tyler,tyler-cavanaugh,34,F,6-9,238,"FEB 09, 1994",25.0,1,George Washington,1628463,,1610612762,Utah Jazz
+1610612762,2018,00,Donovan Mitchell,Donovan,donovan-mitchell,45,G,6-3,215,"SEP 07, 1996",22.0,1,Louisville,1628378,,1610612762,Utah Jazz
+1610612762,2018,00,Jae Crowder,Jae,jae-crowder,99,F,6-6,235,"JUL 06, 1990",28.0,6,Marquette,203109,,1610612762,Utah Jazz
+1610612763,2018,00,Avery Bradley,Avery,avery-bradley,0,G,6-2,180,"NOV 26, 1990",28.0,8,University of Texas at Austin,202340,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Kyle Anderson,Kyle,kyle-anderson,1,F,6-9,230,"SEP 20, 1993",25.0,4,UCLA,203937,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Delon Wright,Delon,delon-wright,2,G,6-5,183,"APR 26, 1992",27.0,3,Utah,1626153,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Jevon Carter,Jevon,jevon-carter,3,G,6-2,196,"SEP 14, 1995",23.0,R,West Virginia,1628975,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Julian Washburn,Julian,julian-washburn,4,F-G,6-8,209,"DEC 18, 1991",27.0,R,Texas-El Paso,1627395,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Bruno Caboclo,Bruno,bruno-caboclo,5,F,6-9,218,"SEP 21, 1995",23.0,4,Pinheiros,203998,,1610612763,Memphis Grizzlies
+1610612763,2018,00,CJ Miles,CJ,cj-miles,6,F-G,6-6,220,"MAR 18, 1987",32.0,13,Skyline HS (TX),101139,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Justin Holiday,Justin,justin-holiday,7,F-G,6-6,181,"APR 05, 1989",30.0,5,Washington,203200,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Ivan Rabb,Ivan,ivan-rabb,10,F,6-10,220,"FEB 04, 1997",22.0,1,California,1628397,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Mike Conley,Mike,mike-conley,11,G,6-1,175,"OCT 11, 1987",31.0,11,Ohio State,201144,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Yuta Watanabe,Yuta,yuta-watanabe,12,G,6-9,205,"OCT 13, 1994",24.0,R,George Washington,1629139,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Jaren Jackson Jr.,Jaren,jaren-jackson-jr,13,F-C,6-11,242,"SEP 15, 1999",19.0,R,Michigan State,1628991,#4 Pick in 2018 Draft,1610612763,Memphis Grizzlies
+1610612763,2018,00,Jonas Valančiūnas,Jonas,jonas-valančiūnas,17,C,7-0,265,"MAY 06, 1992",27.0,6,Lietuvos rytas Vilnius,202685,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Tyler Dorsey,Tyler,tyler-dorsey,22,G,6-5,183,"FEB 18, 1996",23.0,1,Oregon,1628416,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Dillon Brooks,Dillon,dillon-brooks,24,G-F,6-6,220,"JAN 22, 1996",23.0,1,Oregon,1628415,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Chandler Parsons,Chandler,chandler-parsons,25,F,6-10,230,"OCT 25, 1988",30.0,7,Florida,202718,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Tyler Zeller,Tyler,tyler-zeller,45,C,7-0,253,"JAN 17, 1990",29.0,6,North Carolina,203092,,1610612763,Memphis Grizzlies
+1610612763,2018,00,Joakim Noah,Joakim,joakim-noah,55,C,6-11,230,"FEB 25, 1985",34.0,11,Florida,201149,,1610612763,Memphis Grizzlies
+1610612764,2018,00,Trevor Ariza,Trevor,trevor-ariza,1,F,6-8,215,"JUN 30, 1985",33.0,14,UCLA,2772,,1610612764,Washington Wizards
+1610612764,2018,00,John Wall,John,john-wall,2,G,6-4,210,"SEP 06, 1990",28.0,8,Kentucky,202322,,1610612764,Washington Wizards
+1610612764,2018,00,Bradley Beal,Bradley,bradley-beal,3,G,6-5,207,"JUN 28, 1993",26.0,6,Florida,203078,,1610612764,Washington Wizards
+1610612764,2018,00,Wesley Johnson,Wesley,wesley-johnson,4,F-G,6-7,215,"JUL 11, 1987",31.0,8,Syracuse,202325,,1610612764,Washington Wizards
+1610612764,2018,00,Bobby Portis,Bobby,bobby-portis,5,F,6-11,250,"FEB 10, 1995",24.0,3,Arkansas,1626171,,1610612764,Washington Wizards
+1610612764,2018,00,Troy Brown Jr.,Troy,troy-brown-jr,6,F,6-7,215,"JUL 28, 1999",19.0,R,Oregon,1628972,,1610612764,Washington Wizards
+1610612764,2018,00,Devin Robinson,Devin,devin-robinson,7,F,6-8,200,"MAR 07, 1995",24.0,1,Florida,1628421,,1610612764,Washington Wizards
+1610612764,2018,00,Sam Dekker,Sam,sam-dekker,8,F,6-9,230,"MAY 06, 1994",25.0,3,Wisconsin,1626155,,1610612764,Washington Wizards
+1610612764,2018,00,Chasson Randle,Chasson,chasson-randle,9,G,6-2,185,"FEB 05, 1993",26.0,1,Stanford,1626184,,1610612764,Washington Wizards
+1610612764,2018,00,Jabari Parker,Jabari,jabari-parker,12,F,6-8,245,"MAR 15, 1995",24.0,4,Duke,203953,,1610612764,Washington Wizards
+1610612764,2018,00,Thomas Bryant,Thomas,thomas-bryant,13,C,6-11,248,"JUL 31, 1997",21.0,1,Indiana,1628418,,1610612764,Washington Wizards
+1610612764,2018,00,Dwight Howard,Dwight,dwight-howard,21,C,6-11,265,"DEC 08, 1985",33.0,14,SW Atlanta Christian Academy (GA),2730,,1610612764,Washington Wizards
+1610612764,2018,00,Tarik Phillip,Tarik,tarik-phillip,22,G,6-3,195,"AUG 10, 1993",25.0,R,West Virginia,1629341,,1610612764,Washington Wizards
+1610612764,2018,00,Ian Mahinmi,Ian,ian-mahinmi,28,C,6-11,262,"NOV 05, 1986",32.0,10,Pau Orthez,101133,,1610612764,Washington Wizards
+1610612764,2018,00,Tomas Satoransky,Tomas,tomas-satoransky,31,G-F,6-7,210,"OCT 30, 1991",27.0,2,FC Barcelona,203107,,1610612764,Washington Wizards
+1610612764,2018,00,Jeff Green,Jeff,jeff-green,32,F,6-9,235,"AUG 28, 1986",32.0,10,Georgetown,201145,,1610612764,Washington Wizards
+1610612764,2018,00,Jordan McRae,Jordan,jordan-mcrae,52,G,6-5,179,"MAR 28, 1991",28.0,2,Tennessee,203895,,1610612764,Washington Wizards
+1610612765,2018,00,Andre Drummond,Andre,andre-drummond,0,C,6-11,279,"AUG 10, 1993",25.0,6,Connecticut,203083,,1610612765,Detroit Pistons
+1610612765,2018,00,Reggie Jackson,Reggie,reggie-jackson,1,G,6-3,208,"APR 16, 1990",29.0,7,Boston College,202704,,1610612765,Detroit Pistons
+1610612765,2018,00,Luke Kennard,Luke,luke-kennard,5,G,6-5,206,"JUN 24, 1996",23.0,1,Duke,1628379,,1610612765,Detroit Pistons
+1610612765,2018,00,Bruce Brown,Bruce,bruce-brown,6,G,6-5,202,"AUG 15, 1996",22.0,R,Miami,1628971,,1610612765,Detroit Pistons
+1610612765,2018,00,Thon Maker,Thon,thon-maker,7,F,7-1,221,"FEB 25, 1997",22.0,2,Athlete Institute Prep,1627748,,1610612765,Detroit Pistons
+1610612765,2018,00,Langston Galloway,Langston,langston-galloway,9,G,6-2,200,"DEC 09, 1991",27.0,4,St. Joseph's (PA),204038,,1610612765,Detroit Pistons
+1610612765,2018,00,Isaiah Whitehead,Isaiah,isaiah-whitehead,12,G,6-4,213,"MAR 08, 1995",24.0,2,Seton Hall,1627785,,1610612765,Detroit Pistons
+1610612765,2018,00,Khyri Thomas,Khyri,khyri-thomas,13,G,6-3,210,"MAY 08, 1996",23.0,R,Creighton,1629017,,1610612765,Detroit Pistons
+1610612765,2018,00,Ish Smith,Ish,ish-smith,14,G,6-0,175,"JUL 05, 1988",30.0,8,Wake Forest,202397,,1610612765,Detroit Pistons
+1610612765,2018,00,Svi Mykhailiuk,Svi,svi-mykhailiuk,19,G,6-8,205,"JUN 10, 1997",22.0,R,Kansas,1629004,,1610612765,Detroit Pistons
+1610612765,2018,00,Wayne Ellington,Wayne,wayne-ellington,20,G,6-5,200,"NOV 29, 1987",31.0,9,North Carolina,201961,,1610612765,Detroit Pistons
+1610612765,2018,00,Glenn Robinson III,Glenn,glenn-robinson-iii,22,G-F,6-6,222,"JAN 08, 1994",25.0,4,Michigan,203922,,1610612765,Detroit Pistons
+1610612765,2018,00,Blake Griffin,Blake,blake-griffin,23,F,6-10,250,"MAR 16, 1989",30.0,8,Oklahoma,201933,,1610612765,Detroit Pistons
+1610612765,2018,00,Kalin Lucas,Kalin,kalin-lucas,24,G,6-1,195,"MAY 24, 1989",30.0,1,Michigan State,203564,,1610612765,Detroit Pistons
+1610612765,2018,00,Zaza Pachulia,Zaza,zaza-pachulia,27,C,6-11,270,"FEB 10, 1984",35.0,15,Ulkerspor,2585,,1610612765,Detroit Pistons
+1610612765,2018,00,Jon Leuer,Jon,jon-leuer,30,F,6-10,228,"MAY 14, 1989",30.0,7,Wisconsin,202720,,1610612765,Detroit Pistons
+1610612765,2018,00,Jose Calderon,Jose,jose-calderon,81,G,6-3,200,"SEP 28, 1981",37.0,13,Tau Ceramica,101181,,1610612765,Detroit Pistons
+1610612766,2018,00,Miles Bridges,Miles,miles-bridges,0,F,6-7,225,"MAR 21, 1998",21.0,R,Michigan State,1628970,Draft Rights Traded from LAC on 06/21/18,1610612766,Charlotte Hornets
+1610612766,2018,00,Malik Monk,Malik,malik-monk,1,G,6-3,200,"FEB 04, 1998",21.0,1,Kentucky,1628370,,1610612766,Charlotte Hornets
+1610612766,2018,00,Marvin Williams,Marvin,marvin-williams,2,F,6-9,237,"JUN 19, 1986",33.0,13,North Carolina,101107,,1610612766,Charlotte Hornets
+1610612766,2018,00,Jeremy Lamb,Jeremy,jeremy-lamb,3,G,6-5,185,"MAY 30, 1992",27.0,6,Connecticut,203087,,1610612766,Charlotte Hornets
+1610612766,2018,00,Devonte' Graham,Devonte',devonte-graham,4,G,6-2,185,"FEB 22, 1995",24.0,R,Kansas,1628984,,1610612766,Charlotte Hornets
+1610612766,2018,00,Nicolas Batum,Nicolas,nicolas-batum,5,F-G,6-8,200,"DEC 14, 1988",30.0,10,Le Mans,201587,,1610612766,Charlotte Hornets
+1610612766,2018,00,Shelvin Mack,Shelvin,shelvin-mack,6,G,6-3,203,"APR 22, 1990",29.0,7,Butler,202714,,1610612766,Charlotte Hornets
+1610612766,2018,00,Dwayne Bacon,Dwayne,dwayne-bacon,7,G-F,6-7,221,"AUG 30, 1995",23.0,1,Florida State,1628407,,1610612766,Charlotte Hornets
+1610612766,2018,00,Bismack Biyombo,Bismack,bismack-biyombo,8,C,6-9,255,"AUG 28, 1992",26.0,7,Baloncesto Fuenlabrada,202687,,1610612766,Charlotte Hornets
+1610612766,2018,00,Tony Parker,Tony,tony-parker,9,G,6-2,185,"MAY 17, 1982",37.0,17,Paris Basket Racing,2225,,1610612766,Charlotte Hornets
+1610612766,2018,00,Michael Kidd-Gilchrist,Michael,michael-kidd-gilchrist,14,F,6-7,232,"SEP 26, 1993",25.0,6,Kentucky,203077,,1610612766,Charlotte Hornets
+1610612766,2018,00,Kemba Walker,Kemba,kemba-walker,15,G,6-1,184,"MAY 08, 1990",29.0,7,Connecticut,202689,,1610612766,Charlotte Hornets
+1610612766,2018,00,Joe Chealey,Joe,joe-chealey,31,G,6-3,190,"NOV 01, 1995",23.0,R,College of Charleston,1629147,,1610612766,Charlotte Hornets
+1610612766,2018,00,Cody Zeller,Cody,cody-zeller,40,C,7-0,240,"OCT 05, 1992",26.0,5,Indiana,203469,,1610612766,Charlotte Hornets
+1610612766,2018,00,Willy Hernangomez,Willy,willy-hernangomez,41,C,6-11,240,"MAY 27, 1994",25.0,2,Cajasol Sevilla,1626195,,1610612766,Charlotte Hornets
+1610612766,2018,00,Frank Kaminsky,Frank,frank-kaminsky,44,F-C,7-0,242,"APR 04, 1993",26.0,3,Wisconsin,1626163,,1610612766,Charlotte Hornets
+1610612766,2018,00,J.P. Macura,J.P.,jp-macura,55,G,6-5,205,"JUN 05, 1995",24.0,R,Xavier,1629122,,1610612766,Charlotte Hornets

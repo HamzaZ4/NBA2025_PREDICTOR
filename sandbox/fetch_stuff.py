@@ -1,12 +1,17 @@
-from nba_api.stats.endpoints import boxscoretraditionalv3, boxscoresummaryv2, commonteamroster
+from nba_api.stats.endpoints import commonteamroster
 import pandas as pd
 
-team_id = "1610612739"
-season = "2023-24"
+team_id = "1610612739"  # Cleveland Cavaliers
+season = "2025-26"      # Season string must be "YYYY-YY"
 
-roster = commonteamroster.CommonTeamRoster(team_id)
-players = roster.get_data_frames()
+# Fetch roster for given season + team
+roster = commonteamroster.CommonTeamRoster(team_id=team_id, season=season)
 
-game_id = "1610612739"
-boxscore = boxscoresummaryv2.BoxScoreSummaryV2(game_id).get_data_frames()
-print(boxscore)
+# The endpoint returns multiple result sets (players + coaches)
+players, coaches = roster.get_data_frames()
+
+print("Players:")
+print(players)
+
+print("\nCoaches:")
+print(coaches)
