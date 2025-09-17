@@ -14,3 +14,7 @@ def get_player_averages(season, out_dir = "../../data/raw/player_stats/"):
     print(df)
     df.to_csv(f"{out_dir}player_season_totals_{season}.csv", index=False)
     return f"{out_dir}player_season_totals_{season}.csv"
+
+
+if __name__ == "__main__":
+    get_player_averages("2019-20")
